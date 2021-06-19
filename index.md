@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Welcome to ArcticCloud
+##             by Apurba Ghosh
 
-You can use the [editor on GitHub](https://github.com/Stark-Corp/ArcticCloud/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Details
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ArcticCloud is a Module in Python which is aimed to solve your daily tasks. It can generate MarkSheets for you as well as do Complex Computer Calculations for you which is related to Base Conversions like Binary, Decimal, HexaDecimal etc.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# THIS MODULE IS TARGETED TO HIGHER SECONDARY STUDENTS 
 
-- Bulleted
-- List
+It has two Sub Class or Libraries
 
-1. Numbered
-2. List
+- **_MarkSheet_**
+- **_BaseConverter_**
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+# **BaseConverter**
+
+`General`
+This Module will Convert a number from the given base to any other base.
+
+`Usage` 
+from ArcticCloud import BaseConvertor as b
+Say, you will convert from Binary to Hexadecimal
+v1 = b.Binary_to_Hexadecimal("11011101.111010") # bound the method calling to a variable and print it to get the desired result
+
+`NOTE`
+Remember to give the Argument of all the functions in str, if you use any good text editor like VS Code or any IDE it will show the references while you call the method/function.
+
+
+
+# **MarkSheet**
+
+`General`
+This Module will generate a CBSE marksheet for you provided you give the Marks of 6 Subjects.
+
+`Usage`
+from ArcticCloud import Marksheet as mk
+mk.PrintMarksheet("<name of school>",[<marks of 6 subjects>], ["<Name>", "<Sec>", "<Roll no>"])
+The First Argument of the Function is School Name in str class, marks of 6 subjects in a list [100, 100, 99, 98, 98, 99], details ["Apurba Ghosh", "A", ]
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stark-Corp/ArcticCloud/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you have any Queries or Suggestions and/or You want to Contribute, then feel free to reach me at, `new.to.world2003@gmail.com`, `thelucifer2003@hotmail.com`. Than You for Visiting my Page. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+`Author`
+~ Apurba Ghosh @ (iamapurba2003)

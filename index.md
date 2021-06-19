@@ -17,7 +17,7 @@ It has two Sub Class or Libraries
 
 
 
-# **BaseConverter**
+# BaseConverter
 
 `General`
 This Module will Convert a number from the given base to any other base.
@@ -32,7 +32,7 @@ Remember to give the Argument of all the functions in str, if you use any good t
 
 
 
-# **MarkSheet**
+# MarkSheet
 
 `General`
 This Module will generate a CBSE marksheet for you provided you give the Marks of 6 Subjects.
@@ -47,7 +47,7 @@ The First Argument of the Function is School Name in str class, marks of 6 subje
 
 ### Contact
 
-If you have any Queries or Suggestions and/or You want to Contribute, then feel free to reach me at, `new.to.world2003@gmail.com`, `thelucifer2003@hotmail.com`. Than You for Visiting my Page. 
+If you have any Queries or Suggestions and/or You want to Contribute, then feel free to reach me at, `new.to.world2003@gmail.com`, `thelucifer2003@hotmail.com`. Thank You for Visiting my Page. 
 
 `Author`
 ~ Apurba Ghosh @ (iamapurba2003)

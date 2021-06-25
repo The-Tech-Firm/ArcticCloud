@@ -6,7 +6,7 @@ Class **BaseConverter**:
 
 ```
 This Module will Convert a number from the given base to any other base.
-Usage : from ArcticCloud import BaseConvertor as b
+Usage : from ArcticCloud import BaseConverter as b
 # Say, you will convert from Binary to Hexadecimal,
 v1 = b.Binary_to_Hexadecimal("11011101.111010") # bound the method calling to a variable and print it to get the desired result, 
 
